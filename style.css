@@ -23,6 +23,9 @@
 .bag{
     margin-top: 60%;
 }
+.categories{
+    position:center;
+}
 .carousel-item{
     padding: 20px 40px;
 }
